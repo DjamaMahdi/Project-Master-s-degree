@@ -6,6 +6,3 @@ Through this project, I have utilized Python programming language to conduct exp
 
 The objective of this project is to identify the key determinants that influence young kids' engagement in sports and provide insights that can help policymakers and sports organizations to design effective strategies to promote sports among youth in France. So, let's dive into the world of sports and explore what factors motivate young kids to engage in sports activities.
 
-## Information
-
-You will find in "Memory" the report of the study and in "Codes" the python codes.
